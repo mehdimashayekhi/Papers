@@ -10,7 +10,8 @@ List of papers
 *  Intra-attention: https://arxiv.org/pdf/1705.04304.pdf
 * [Attention Is All You Need](https://arxiv.org/pdf/1706.03762.pdf) - Attention Is All You Need. <br />Presentation: https://www.youtube.com/watch?v=rBCqOTEfxvg. <br /> Code: https://github.com/tensorflow/tensor2tensor
 * [Grammar as a Foreign Language](https://arxiv.org/pdf/1412.7449.pdf)
-* [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf) 
+* [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
+* [OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://arxiv.org/pdf/1701.06538.pdf)
 
 
 ## Information Retrieval/ Search

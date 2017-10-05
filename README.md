@@ -14,6 +14,10 @@ List of papers
 * [OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://arxiv.org/pdf/1701.06538.pdf)
 
 
+## Generative Models
+
+* [One Model To Learn Them All] (https://arxiv.org/pdf/1706.05137.pdf)
+
 ## Information Retrieval/ Search
 
 * 

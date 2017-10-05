@@ -12,6 +12,7 @@ List of papers
 * [Grammar as a Foreign Language](https://arxiv.org/pdf/1412.7449.pdf)
 * [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
 * [OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://arxiv.org/pdf/1701.06538.pdf)
+* [Tensor2Tensor Presentation] (https://nlp.stanford.edu/seminar/details/lkaiser.pdf)
 
 
 ## Generative Models

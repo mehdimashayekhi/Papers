@@ -21,8 +21,8 @@ List of papers
 
 ## Information Retrieval/ Search
 
-* [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA] https://sites.google.com/view/deep-rl-bootcamp/lectures
+* 
 
 ## Deep Reinforcement Learning
 
-* 
+* [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA] https://sites.google.com/view/deep-rl-bootcamp/lectures

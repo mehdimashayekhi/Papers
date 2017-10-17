@@ -26,3 +26,10 @@ List of papers
 ## Deep Reinforcement Learning
 
 * [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA] https://sites.google.com/view/deep-rl-bootcamp/lectures
+
+
+## Tensorflow Tutorials
+
+* https://github.com/nlintz/TensorFlow-Tutorials
+* https://github.com/pkmital/tensorflow_tutorials
+* https://github.com/aymericdamien/TensorFlow-Examples

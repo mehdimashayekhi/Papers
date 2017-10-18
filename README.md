@@ -33,3 +33,7 @@ List of papers
 * https://github.com/nlintz/TensorFlow-Tutorials
 * https://github.com/pkmital/tensorflow_tutorials
 * https://github.com/aymericdamien/TensorFlow-Examples
+
+## Chatbots
+
+* [Deal or No Deal? End-to-End Learning for Negotiation Dialogues]https://arxiv.org/pdf/1706.05125.pdf

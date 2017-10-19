@@ -36,4 +36,4 @@ List of papers
 
 ## Chatbots
 
-* [Deal or No Deal? End-to-End Learning for Negotiation Dialogues]https://arxiv.org/pdf/1706.05125.pdf
+* [Deal or No Deal? End-to-End Learning for Negotiation Dialogues]https://arxiv.org/pdf/1706.05125.pdf,     [Presentation]https://nlp.stanford.edu/seminar/details/mlewis.pdf

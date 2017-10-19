@@ -23,11 +23,12 @@ List of papers
 
 * 
 
-## Deep Reinforcement Learning
+## Deep Reinforcement Learning/Chatbot
 
 * [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA] https://sites.google.com/view/deep-rl-bootcamp/lectures
 * [Deep Reinforcement Learning for Dialogue Generation] https://arxiv.org/pdf/1606.01541.pdf
 * [Adversarial Learning for Neural Dialogue Generation] https://arxiv.org/pdf/1701.06547.pdf
+* [Deal or No Deal? End-to-End Learning for Negotiation Dialogues]https://arxiv.org/pdf/1706.05125.pdf,        [Presentation]https://nlp.stanford.edu/seminar/details/mlewis.pdf
 
 
 ## Tensorflow Tutorials
@@ -36,6 +37,6 @@ List of papers
 * https://github.com/pkmital/tensorflow_tutorials
 * https://github.com/aymericdamien/TensorFlow-Examples
 
-## Chatbots
 
-* [Deal or No Deal? End-to-End Learning for Negotiation Dialogues]https://arxiv.org/pdf/1706.05125.pdf,     [Presentation]https://nlp.stanford.edu/seminar/details/mlewis.pdf
+
+

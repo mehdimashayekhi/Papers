@@ -19,9 +19,7 @@ List of papers
 
 * [One Model To Learn Them All] (https://arxiv.org/pdf/1706.05137.pdf)
 
-## Information Retrieval/ Search
 
-* 
 
 ## Deep Reinforcement Learning/Chatbot
 
@@ -38,5 +36,7 @@ List of papers
 * https://github.com/aymericdamien/TensorFlow-Examples
 
 
+## Information Retrieval/ Search
 
+* 
 

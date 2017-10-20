@@ -35,6 +35,10 @@ List of papers
 * https://github.com/pkmital/tensorflow_tutorials
 * https://github.com/aymericdamien/TensorFlow-Examples
 
+## NLP Lectures
+
+* [https://www.youtube.com/user/neubig/videos] CMU CS 11-747, Neural Networks for NLP 
+
 
 ## Information Retrieval/ Search
 

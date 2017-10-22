@@ -27,6 +27,7 @@ List of papers
 * [Deep Reinforcement Learning for Dialogue Generation] https://arxiv.org/pdf/1606.01541.pdf
 * [Adversarial Learning for Neural Dialogue Generation] https://arxiv.org/pdf/1701.06547.pdf
 * [Deal or No Deal? End-to-End Learning for Negotiation Dialogues]https://arxiv.org/pdf/1706.05125.pdf,        [Presentation]https://nlp.stanford.edu/seminar/details/mlewis.pdf
+* [CS 294: Deep Reinforcement Learning, Fall 2017] http://rll.berkeley.edu/deeprlcourse/
 
 
 ## Tensorflow Tutorials

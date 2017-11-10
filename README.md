@@ -28,6 +28,8 @@ List of papers
 * [Adversarial Learning for Neural Dialogue Generation] https://arxiv.org/pdf/1701.06547.pdf
 * [Deal or No Deal? End-to-End Learning for Negotiation Dialogues]https://arxiv.org/pdf/1706.05125.pdf,        [Presentation]https://nlp.stanford.edu/seminar/details/mlewis.pdf
 * [CS 294: Deep Reinforcement Learning, Fall 2017] http://rll.berkeley.edu/deeprlcourse/
+* https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
+* https://leimao.github.io/article/Flappy-Bird-AI/
 
 
 ## Tensorflow Tutorials

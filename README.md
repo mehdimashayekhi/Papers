@@ -30,6 +30,8 @@ List of papers
 * [CS 294: Deep Reinforcement Learning, Fall 2017] http://rll.berkeley.edu/deeprlcourse/
 * https://yanpanlau.github.io/2016/07/10/FlappyBird-Keras.html
 * https://leimao.github.io/article/Flappy-Bird-AI/
+* [Pieter Abbeel delivers his keynote: Deep Learning for Robotics, at NIPS 2017.]https://www.facebook.com/nipsfoundation/videos/1554594181298482/
+* Meta-Learning https://www.dropbox.com/s/a82gbu55k1k4diz/2017_12_xx_NIPS-HRL-workshop-final.pdf?dl=0
 
 
 ## Tensorflow Tutorials

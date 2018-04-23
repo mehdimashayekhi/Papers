@@ -49,6 +49,10 @@ List of papers
 * [Summary of NIPS 2017 conference] https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf
 
 
+## SENTIMENT CLASSIFICATION
+
+* [LEARNING DOCUMENT EMBEDDINGS BY PREDICTING N-GRAMS FOR SENTIMENT CLASSIFICATION OF LONG MOVIE REVIEWS] https://arxiv.org/pdf/1512.08183.pdf
+
 ## Information Retrieval/ Search
 
 *

@@ -13,6 +13,8 @@ List of papers
 * [NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE](https://arxiv.org/pdf/1409.0473.pdf)
 * [OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://arxiv.org/pdf/1701.06538.pdf)
 * [Tensor2Tensor Presentation] (https://nlp.stanford.edu/seminar/details/lkaiser.pdf)
+* [https://arxiv.org/pdf/1707.05589.pdf] ON THE STATE OF THE ART OF EVALUATION IN NEURAL LANGUAGE MODELS
+
 
 
 ## Generative Models

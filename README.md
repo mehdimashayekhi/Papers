@@ -44,6 +44,10 @@ List of papers
 
 * [https://www.youtube.com/user/neubig/videos] CMU CS 11-747, Neural Networks for NLP 
 
+## Sequence Labeling
+
+* [https://arxiv.org/pdf/1603.01354.pdf] End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF 
+
 ## Miscellaneous
 
 * [Summary of NIPS 2017 conference] https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf

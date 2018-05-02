@@ -24,7 +24,7 @@ List of papers
 
 
 ## Deep Reinforcement Learning/Chatbot
-
+* [https://arxiv.org/pdf/1709.03856.pdf] StarSpace: Embed All The Things!
 * [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA] https://sites.google.com/view/deep-rl-bootcamp/lectures
 * [Deep Reinforcement Learning for Dialogue Generation] https://arxiv.org/pdf/1606.01541.pdf
 * [Adversarial Learning for Neural Dialogue Generation] https://arxiv.org/pdf/1701.06547.pdf
@@ -34,6 +34,10 @@ List of papers
 * https://leimao.github.io/article/Flappy-Bird-AI/
 * [Pieter Abbeel delivers his keynote: Deep Learning for Robotics, at NIPS 2017.]https://www.facebook.com/nipsfoundation/videos/1554594181298482/
 * Meta-Learning https://www.dropbox.com/s/a82gbu55k1k4diz/2017_12_xx_NIPS-HRL-workshop-final.pdf?dl=0
+* [https://www.youtube.com/user/neubig/videos] CMU CS 11-747, Neural Networks for NLP 
+* [https://arxiv.org/pdf/1603.01354.pdf] End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF 
+* [Summary of NIPS 2017 conference] https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf
+* [LEARNING DOCUMENT EMBEDDINGS BY PREDICTING N-GRAMS FOR SENTIMENT CLASSIFICATION OF LONG MOVIE REVIEWS] https://arxiv.org/pdf/1512.08183.pdf
 
 
 ## Tensorflow Tutorials
@@ -42,26 +46,8 @@ List of papers
 * https://github.com/pkmital/tensorflow_tutorials
 * https://github.com/aymericdamien/TensorFlow-Examples
 
-## NLP Lectures
-
-* [https://www.youtube.com/user/neubig/videos] CMU CS 11-747, Neural Networks for NLP 
-
-## Sequence Labeling
-
-* [https://arxiv.org/pdf/1603.01354.pdf] End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF 
-
-## Miscellaneous
-
-* [Summary of NIPS 2017 conference] https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf
 
 
-## SENTIMENT CLASSIFICATION
-
-* [LEARNING DOCUMENT EMBEDDINGS BY PREDICTING N-GRAMS FOR SENTIMENT CLASSIFICATION OF LONG MOVIE REVIEWS] https://arxiv.org/pdf/1512.08183.pdf
-
-## Information Retrieval/ Search
-
-*
 
 
 

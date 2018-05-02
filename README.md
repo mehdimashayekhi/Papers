@@ -2,8 +2,9 @@
 
 List of papers 
 
-## Natural Language Understanding
+## Natural Language Understanding Related Papers
 
+* [StarSpace: Embed All The Things!] (https://arxiv.org/pdf/1709.03856.pdf)
 * [ConvS2S] (https://arxiv.org/abs/1705.03122)
 * [Attention in general] (https://arxiv.org/pdf/1703.03906.pdf) (the link would help you quickly understand section 3.2)
 *  Wavenet/Bytenet https://arxiv.org/abs/1609.03499 and https://arxiv.org/abs/1610.10099
@@ -14,17 +15,18 @@ List of papers
 * [OUTRAGEOUSLY LARGE NEURAL NETWORKS: THE SPARSELY-GATED MIXTURE-OF-EXPERTS LAYER](https://arxiv.org/pdf/1701.06538.pdf)
 * [Tensor2Tensor Presentation] (https://nlp.stanford.edu/seminar/details/lkaiser.pdf)
 * [https://arxiv.org/pdf/1707.05589.pdf] ON THE STATE OF THE ART OF EVALUATION IN NEURAL LANGUAGE MODELS
+* [https://www.youtube.com/user/neubig/videos] CMU CS 11-747, Neural Networks for NLP 
 
+* [https://arxiv.org/pdf/1603.01354.pdf] End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF 
 
+* [Summary of NIPS 2017 conference] https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf
 
-## Generative Models
+* [LEARNING DOCUMENT EMBEDDINGS BY PREDICTING N-GRAMS FOR SENTIMENT CLASSIFICATION OF LONG MOVIE REVIEWS] https://arxiv.org/pdf/1512.08183.pdf
 
 * [One Model To Learn Them All] (https://arxiv.org/pdf/1706.05137.pdf)
 
-
-
 ## Deep Reinforcement Learning/Chatbot
-* [https://arxiv.org/pdf/1709.03856.pdf] StarSpace: Embed All The Things!
+
 * [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA] https://sites.google.com/view/deep-rl-bootcamp/lectures
 * [Deep Reinforcement Learning for Dialogue Generation] https://arxiv.org/pdf/1606.01541.pdf
 * [Adversarial Learning for Neural Dialogue Generation] https://arxiv.org/pdf/1701.06547.pdf
@@ -34,10 +36,7 @@ List of papers
 * https://leimao.github.io/article/Flappy-Bird-AI/
 * [Pieter Abbeel delivers his keynote: Deep Learning for Robotics, at NIPS 2017.]https://www.facebook.com/nipsfoundation/videos/1554594181298482/
 * Meta-Learning https://www.dropbox.com/s/a82gbu55k1k4diz/2017_12_xx_NIPS-HRL-workshop-final.pdf?dl=0
-* [https://www.youtube.com/user/neubig/videos] CMU CS 11-747, Neural Networks for NLP 
-* [https://arxiv.org/pdf/1603.01354.pdf] End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF 
-* [Summary of NIPS 2017 conference] https://cs.brown.edu/~dabel/blog/posts/misc/nips_2017.pdf
-* [LEARNING DOCUMENT EMBEDDINGS BY PREDICTING N-GRAMS FOR SENTIMENT CLASSIFICATION OF LONG MOVIE REVIEWS] https://arxiv.org/pdf/1512.08183.pdf
+
 
 
 ## Tensorflow Tutorials
@@ -45,6 +44,7 @@ List of papers
 * https://github.com/nlintz/TensorFlow-Tutorials
 * https://github.com/pkmital/tensorflow_tutorials
 * https://github.com/aymericdamien/TensorFlow-Examples
+
 
 
 

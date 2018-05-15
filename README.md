@@ -27,6 +27,7 @@ List of papers
 
 ## Deep Reinforcement Learning/Chatbot
 
+* [Reinforcement Learning: An Introduction, Richard S. Sutton] http://incompleteideas.net/book/bookdraft2017nov5.pdf
 * [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA] https://sites.google.com/view/deep-rl-bootcamp/lectures
 * [Deep Reinforcement Learning for Dialogue Generation] https://arxiv.org/pdf/1606.01541.pdf
 * [Adversarial Learning for Neural Dialogue Generation] https://arxiv.org/pdf/1701.06547.pdf

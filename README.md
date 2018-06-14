@@ -51,7 +51,7 @@ List of papers
 ## Some interesting ML talks 
 
 * [Ewa Dominowska - Generating a Billion Personal News Feeds - MLconf SEA 2016] https://www.youtube.com/watch?v=iXKR3HE-m8c
-
+* [Rushin Shah, Engineering Manager, Facebook, NLP Related] https://www.youtube.com/watch?v=avViRGkdVKY
 
 
 

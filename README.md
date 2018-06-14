@@ -1,4 +1,4 @@
-# Good-Papers
+# Good-Papers/Talks
 
 List of papers 
 
@@ -45,6 +45,12 @@ List of papers
 * https://github.com/nlintz/TensorFlow-Tutorials
 * https://github.com/pkmital/tensorflow_tutorials
 * https://github.com/aymericdamien/TensorFlow-Examples
+
+
+
+## Some interesting ML talks 
+
+* [Ewa Dominowska - Generating a Billion Personal News Feeds - MLconf SEA 2016] https://www.youtube.com/watch?v=iXKR3HE-m8c
 
 
 

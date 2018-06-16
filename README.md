@@ -65,7 +65,7 @@ List of papers
 * [Generative Image Modeling Using Spatial LSTMs, 2015] https://arxiv.org/pdf/1506.03478.pdf
 * [Pixel Recurrent Neural Networks, 2016] https://arxiv.org/pdf/1601.06759.pdf
 * [Generative Models(GAN, PixelRNN,..., 2017)] (https://www.youtube.com/watch?v=5WoItGTWV54)
-* [PIXELCNN++: IMPROVING THE PIXELCNN WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS)](https://arxiv.org/pdf/1701.05517.pdf)
+* [PIXELCNN++: IMPROVING THE PIXELCNN WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS), 2017] (https://arxiv.org/pdf/1701.05517.pdf)
 
 
 

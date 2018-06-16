@@ -27,7 +27,6 @@ List of papers
 
 * [EASY CONTEXTUAL INTENT PREDICTION AND SLOT DETECTION] (http://www.cs.toronto.edu/~aditya/publications/contextual.pdf)
 
-* [Generative Models(GAN, PixelRNN,...)] (https://www.youtube.com/watch?v=5WoItGTWV54)
 
 ## Deep Reinforcement Learning/Chatbot
 
@@ -59,6 +58,13 @@ List of papers
 * [Rushin Shah, Engineering Manager, Facebook, NLP Related] https://www.youtube.com/watch?v=avViRGkdVKY
 
 
+
+## Multi-Dimensional Recurrent Neural Networks
+
+* [Multi-Dimensional Recurrent Neural Networks, 2013] https://arxiv.org/pdf/0705.2011.pdf
+* [Generative Image Modeling Using Spatial LSTMs] https://arxiv.org/pdf/1506.03478.pdf
+* [Pixel Recurrent Neural Networks] https://arxiv.org/pdf/1601.06759.pdf
+* [Generative Models(GAN, PixelRNN,...)] (https://www.youtube.com/watch?v=5WoItGTWV54)
 
 
 

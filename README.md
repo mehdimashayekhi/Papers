@@ -62,9 +62,9 @@ List of papers
 ## Multi-Dimensional Recurrent Neural Networks
 
 * [Multi-Dimensional Recurrent Neural Networks, 2013] https://arxiv.org/pdf/0705.2011.pdf
-* [Generative Image Modeling Using Spatial LSTMs] https://arxiv.org/pdf/1506.03478.pdf
-* [Pixel Recurrent Neural Networks] https://arxiv.org/pdf/1601.06759.pdf
-* [Generative Models(GAN, PixelRNN,...)] (https://www.youtube.com/watch?v=5WoItGTWV54)
+* [Generative Image Modeling Using Spatial LSTMs, 2015] https://arxiv.org/pdf/1506.03478.pdf
+* [Pixel Recurrent Neural Networks, 2016] https://arxiv.org/pdf/1601.06759.pdf
+* [Generative Models(GAN, PixelRNN,..., 2017)] (https://www.youtube.com/watch?v=5WoItGTWV54)
 
 
 

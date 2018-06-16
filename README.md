@@ -27,6 +27,8 @@ List of papers
 
 * [EASY CONTEXTUAL INTENT PREDICTION AND SLOT DETECTION] (http://www.cs.toronto.edu/~aditya/publications/contextual.pdf)
 
+* [Generative Models(GAN, PixelRNN,...)] (https://www.youtube.com/watch?v=5WoItGTWV54)
+
 ## Deep Reinforcement Learning/Chatbot
 
 * [Reinforcement Learning: An Introduction, Richard S. Sutton] http://incompleteideas.net/book/bookdraft2017nov5.pdf

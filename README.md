@@ -72,6 +72,8 @@ List of papers
 
 * [NIPS 2016 - Generative Adversarial Networks - Ian Goodfellow] https://www.youtube.com/watch?v=AJVyzd0rqdc, https://arxiv.org/pdf/1701.00160.pdf
 
+* [Least Squares Generative Adversarial Networks, 2017] https://arxiv.org/pdf/1611.04076.pdf
+
 * https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
 
 * https://towardsdatascience.com/gan-introduction-and-implementation-part1-implement-a-simple-gan-in-tf-for-mnist-handwritten-de00a759ae5c

@@ -72,6 +72,8 @@ List of papers
 
 * [NIPS 2016 - Generative Adversarial Networks - Ian Goodfellow] https://www.youtube.com/watch?v=AJVyzd0rqdc, https://arxiv.org/pdf/1701.00160.pdf
 
+* https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
+
 
 
 

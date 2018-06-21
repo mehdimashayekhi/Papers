@@ -74,6 +74,8 @@ List of papers
 
 * https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
 
+* https://towardsdatascience.com/gan-introduction-and-implementation-part1-implement-a-simple-gan-in-tf-for-mnist-handwritten-de00a759ae5c
+
 
 
 

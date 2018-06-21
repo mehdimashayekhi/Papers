@@ -68,5 +68,11 @@ List of papers
 * [PIXELCNN++: IMPROVING THE PIXELCNN WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS), 2017] (https://arxiv.org/pdf/1701.05517.pdf)
 
 
+## GANs
+
+* [NIPS 2016 - Generative Adversarial Networks - Ian Goodfellow] https://www.youtube.com/watch?v=AJVyzd0rqdc, https://arxiv.org/pdf/1701.00160.pdf
+
+
+
 
 

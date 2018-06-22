@@ -80,6 +80,8 @@ List of papers
 
 * [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS, DCGAN, 2016] https://github.com/Newmu/dcgan_code, https://arxiv.org/pdf/1511.06434.pdf
 
+* [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, 2016] https://arxiv.org/pdf/1606.03657.pdf
+
 
 
 

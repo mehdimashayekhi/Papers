@@ -68,7 +68,7 @@ List of papers
 * [PIXELCNN++: IMPROVING THE PIXELCNN WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS), 2017] (https://arxiv.org/pdf/1701.05517.pdf)
 
 
-## GANs
+## Yes I GAN!
 
 * [NIPS 2016 - Generative Adversarial Networks - Ian Goodfellow] https://www.youtube.com/watch?v=AJVyzd0rqdc, https://arxiv.org/pdf/1701.00160.pdf
 
@@ -77,6 +77,9 @@ List of papers
 * https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html
 
 * https://towardsdatascience.com/gan-introduction-and-implementation-part1-implement-a-simple-gan-in-tf-for-mnist-handwritten-de00a759ae5c
+
+* [UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS, DCGAN, 2016] https://github.com/Newmu/dcgan_code, https://arxiv.org/pdf/1511.06434.pdf
+
 
 
 

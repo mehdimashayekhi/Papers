@@ -1,4 +1,4 @@
-# Good-Papers/Talks, some of my recent readings
+# Good-Papers/Talks, some of my recent readings/learnings
 
 List of papers 
 
@@ -30,6 +30,8 @@ List of papers
 * [Language Modeling with Gated Convolutional Networks, 2017] (https://arxiv.org/pdf/1612.08083.pdf)
 
 * [End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding, 2017] (https://www.csie.ntu.edu.tw/%7Eyvchen/doc/IS16_ContextualSLU.pdf), https://github.com/yvchen/ContextualSLU
+
+* [Named Entity Recognition with Bidirectional LSTM-CNNs (adding-lexicon-to-nlu), 2016] (https://arxiv.org/pdf/1511.08308v4.pdf)
 
 ## Deep Reinforcement Learning/Chatbot
 

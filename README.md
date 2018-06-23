@@ -33,6 +33,8 @@ List of papers
 
 * [Named Entity Recognition with Bidirectional LSTM-CNNs (adding-lexicon-to-nlu), 2016] (https://arxiv.org/pdf/1511.08308v4.pdf)
 
+* [https://arxiv.org/pdf/1606.03777.pdf, 2017] (https://arxiv.org/pdf/1606.03777.pdf)
+
 ## Deep Reinforcement Learning/Chatbot
 
 * [Reinforcement Learning: An Introduction, Richard S. Sutton] http://incompleteideas.net/book/bookdraft2017nov5.pdf

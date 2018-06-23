@@ -27,6 +27,9 @@ List of papers
 
 * [EASY CONTEXTUAL INTENT PREDICTION AND SLOT DETECTION] (http://www.cs.toronto.edu/~aditya/publications/contextual.pdf)
 
+* [Language Modeling with Gated Convolutional Networks, 2017] (https://arxiv.org/pdf/1612.08083.pdf)
+
+* [End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding, 2017] (https://www.csie.ntu.edu.tw/%7Eyvchen/doc/IS16_ContextualSLU.pdf), https://github.com/yvchen/ContextualSLU
 
 ## Deep Reinforcement Learning/Chatbot
 

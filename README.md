@@ -73,6 +73,7 @@ List of papers
 * [Pixel Recurrent Neural Networks, 2016] https://arxiv.org/pdf/1601.06759.pdf
 * [Generative Models(GAN, PixelRNN,..., 2017)] (https://www.youtube.com/watch?v=5WoItGTWV54)
 * [PIXELCNN++: IMPROVING THE PIXELCNN WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS), 2017] (https://arxiv.org/pdf/1701.05517.pdf)
+* https://www.youtube.com/watch?v=OsunRTEh1pw&index=5&list=PLdk2fd27CQzSd1sQ3kBYL4vtv6GjXvPsE, Variational auto encoder
 
 
 ## Yes I GAN!

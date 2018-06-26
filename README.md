@@ -96,6 +96,11 @@ List of papers
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, 2016] https://arxiv.org/pdf/1606.03657.pdf
 
 
+## Docker
+
+* Using Jupyter notebook from Docker: https://www.dataquest.io/blog/docker-data-science/
+* General introduction to Docker: https://docker-curriculum.com/
+
 
 
 

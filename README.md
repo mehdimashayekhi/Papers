@@ -37,6 +37,8 @@ List of papers
 
 * [FRAMES: A CORPUS FOR ADDING MEMORY TO GOAL-ORIENTED DIALOGUE SYSTEMS, 2017] (https://arxiv.org/pdf/1704.00057.pdf)
 
+* [END-TO-END JOINT LEARNING OF NATURAL LANGUAGE UNDERSTANDING AND DIALOGUE MANAGER] (https://arxiv.org/pdf/1612.00913.pdf)
+
 ## Deep Reinforcement Learning/Chatbot
 
 * [Reinforcement Learning: An Introduction, Richard S. Sutton] http://incompleteideas.net/book/bookdraft2017nov5.pdf
@@ -49,6 +51,7 @@ List of papers
 * https://leimao.github.io/article/Flappy-Bird-AI/
 * [Pieter Abbeel delivers his keynote: Deep Learning for Robotics, at NIPS 2017.]https://www.facebook.com/nipsfoundation/videos/1554594181298482/
 * Meta-Learning https://www.dropbox.com/s/a82gbu55k1k4diz/2017_12_xx_NIPS-HRL-workshop-final.pdf?dl=0
+* [Policy Networks with Two-Stage Training for Dialogue Systems] https://arxiv.org/pdf/1606.03152.pdf
 
 
 

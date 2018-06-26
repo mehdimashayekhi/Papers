@@ -35,6 +35,8 @@ List of papers
 
 * [Neural Belief Tracker: Data-Driven Dialogue State Tracking, 2017] (https://arxiv.org/pdf/1606.03777.pdf)
 
+* [FRAMES: A CORPUS FOR ADDING MEMORY TO GOAL-ORIENTED DIALOGUE SYSTEMS, 2017] (https://arxiv.org/pdf/1704.00057.pdf)
+
 ## Deep Reinforcement Learning/Chatbot
 
 * [Reinforcement Learning: An Introduction, Richard S. Sutton] http://incompleteideas.net/book/bookdraft2017nov5.pdf

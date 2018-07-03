@@ -31,6 +31,12 @@ List of papers
 
 * [End-to-End Memory Networks with Knowledge Carryover for Multi-Turn Spoken Language Understanding, 2017] (https://www.csie.ntu.edu.tw/%7Eyvchen/doc/IS16_ContextualSLU.pdf), https://github.com/yvchen/ContextualSLU
 
+- Georgia Tech的免费书：https://lnkd.in/e6VSDXy
+- Yoav Goldberg新出的书：https://lnkd.in/eZra8Xb
+- Stanford - CS224n：https://lnkd.in/eTtF5Ju
+- CMU的课：https://lnkd.in/euf622B
+- University of Oxford and DeepMind的课：https://lnkd.in/exvG_s2
+
 * [Named Entity Recognition with Bidirectional LSTM-CNNs (adding-lexicon-to-nlu), 2016] (https://arxiv.org/pdf/1511.08308v4.pdf)
 
 * [Neural Belief Tracker: Data-Driven Dialogue State Tracking, 2017] (https://arxiv.org/pdf/1606.03777.pdf)

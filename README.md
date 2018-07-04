@@ -59,7 +59,10 @@ List of papers
 * Meta-Learning https://www.dropbox.com/s/a82gbu55k1k4diz/2017_12_xx_NIPS-HRL-workshop-final.pdf?dl=0
 * [Policy Networks with Two-Stage Training for Dialogue Systems] https://arxiv.org/pdf/1606.03152.pdf
 
-
+## Some Interesting Machine Learning Comprehension (MRC) papers/Talks
+* [ReasoNet: Learning to Stop Reading in Machine Comprehension, 2017] https://arxiv.org/pdf/1609.05284.pdf
+* [S-NET: FROM ANSWER EXTRACTION TO ANSWER GENERATION FOR MACHINE READING COMPREHEN- SION, 2018] https://arxiv.org/pdf/1706.04815.pdf
+* [Machine Reading Using Neural Machines, Microsfot Research, 2017] https://www.youtube.com/watch?v=73xYpRKuZVI
 
 
 ## Tensorflow Tutorials

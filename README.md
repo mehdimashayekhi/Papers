@@ -58,6 +58,7 @@ List of papers
 * [Pieter Abbeel delivers his keynote: Deep Learning for Robotics, at NIPS 2017.]https://www.facebook.com/nipsfoundation/videos/1554594181298482/
 * Meta-Learning https://www.dropbox.com/s/a82gbu55k1k4diz/2017_12_xx_NIPS-HRL-workshop-final.pdf?dl=0
 * [Policy Networks with Two-Stage Training for Dialogue Systems] https://arxiv.org/pdf/1606.03152.pdf
+* [Seris of Blogs implementaion of RL] https://jaromiru.com/2016/10/21/lets-make-a-dqn-full-dqn/
 
 ## Some Interesting Machine Learning Comprehension (MRC) papers/Talks
 * [ReasoNet: Learning to Stop Reading in Machine Comprehension, 2017] https://arxiv.org/pdf/1609.05284.pdf

@@ -45,9 +45,32 @@ List of papers
 
 * [END-TO-END JOINT LEARNING OF NATURAL LANGUAGE UNDERSTANDING AND DIALOGUE MANAGER] (https://arxiv.org/pdf/1612.00913.pdf)
 
-## Deep Reinforcement Learning/Chatbot
-
+## (Deep) Reinforcement Learning
+* [Deep Reinforcement Learning Tutorial (Karpathy 2016)]http://karpathy.github.io/2016/05/31/rl/
 * [Reinforcement Learning: An Introduction, Richard S. Sutton] http://incompleteideas.net/book/bookdraft2017nov5.pdf
+* [REINFORCE (Williams 1992)]http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf
+* [Co-training (Blum and Mitchell 1998)]http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/avrim/Papers/cotrain.pdf
+* [Adding Baselines (Dayan 1990)]http://www.gatsby.ucl.ac.uk/~dayan/papers/reinfss.pdf
+* [Sequence-level Training for RNNs (Ranzato et al. 2016)]https://arxiv.org/pdf/1511.06732.pdf
+* [Experience Replay (Lin 1993)]http://www.dtic.mil/docs/citations/ADA261434
+* [Neural Q Learning (Tesauro 1995)]https://cling.csd.uwo.ca/cs346a/extra/tdgammon.pdf
+* [Intrinsic Reward (Schmidhuber 1991)]https://pdfs.semanticscholar.org/2980/dfe5c99658dc3e508d9d6e1d7f26e6fc8934.pdf
+* [Intrinsic Reward for Atari (Bellemare et al. 2016)]http://papers.nips.cc/paper/6383-unifying-count-based-exploration-and-intrinsic-motivation.pdf
+* [Reinforcement Learning for Dialog (Young et al. 2013)]http://mi.eng.cam.ac.uk/~sjy/papers/ygtw13.pdf
+* [End-to-end Neural Task-based Dialog (Williams and Zweig 2016)]https://arxiv.org/pdf/1606.01269.pdf
+* [Neural Chat Dialog (Li et al. 2016)]http://anthology.aclweb.org/D/D16/D16-1127.pdf
+* [User Simulation for Learning in Dialog (Schatzmann et al. 2007)]http://www.aclweb.org/anthology/N/N07/N07-2038.pdf
+* [RL for Mapping Instructions to actions (Branavan et al. 2009)]http://www.anthology.aclweb.org/P/P09/P09-1010.pdf
+* [Deep RL for Mapping Instructions to Actions (Misra et al. 2017)]https://www.aclweb.org/anthology/D/D17/D17-1107.pdf
+* [RL for Text-based Grames (Narasimhan et al. 2015)]http://aclweb.org/anthology/D15-1001.pdf
+* [Incremental Prediction in MT (Grissom et al. 2014)]http://www.aclweb.org/anthology/D14-1140
+* [Incremental Neural MT (Gu et al. 2017)]http://www.aclweb.org/anthology/E/E17/E17-1099.pdf
+* [RL for Information Retrieval (Narasimhan et al. 2016)]http://aclweb.org/anthology/D/D16/D16-1261.pdf
+* [RL for Query Reformulation (Nogueira and Cho 2017)]http://aclweb.org/anthology/D/D17/D17-1062.pdf
+* [RL for Coarse-to-fine Question Answering (Choi et al. 2017)]http://aclweb.org/anthology/P/P17/P17-1020.pdf
+* [RL for Learning Neural Network Structure (Zoph and Le 2016)]https://arxiv.org/pdf/1611.01578.pdf
+* [Sample Code: Reinforcement Learning Code Examples]https://github.com/neubig/nn4nlp-code
+* [Course CMU CS 11-747, Neural Network for NLP, Fall 2017]http://www.phontron.com/class/nn4nlp2017/schedule.html
 * [Deep RL Bootcamp, 26-27 August 2017, Berkeley CA] https://sites.google.com/view/deep-rl-bootcamp/lectures
 * [Deep Reinforcement Learning for Dialogue Generation] https://arxiv.org/pdf/1606.01541.pdf
 * [Adversarial Learning for Neural Dialogue Generation] https://arxiv.org/pdf/1701.06547.pdf

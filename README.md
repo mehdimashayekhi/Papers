@@ -47,7 +47,8 @@ List of papers
 
 ## (Deep) Reinforcement Learning
 * [Deep Reinforcement Learning Tutorial (Karpathy 2016)]http://karpathy.github.io/2016/05/31/rl/
-* [Reinforcement Learning: An Introduction, Richard S. Sutton] http://incompleteideas.net/book/bookdraft2017nov5.pdf
+* [Reinforcement Learning: An Introduction, Richard S. Sutton,2017] http://incompleteideas.net/book/bookdraft2017nov5.pdf
+* [Reinforcement Learning: An Introduction, Richard S. Sutton,2018] https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view
 * [REINFORCE (Williams 1992)]http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf
 * [Co-training (Blum and Mitchell 1998)]http://www.cs.cmu.edu/afs/cs.cmu.edu/Web/People/avrim/Papers/cotrain.pdf
 * [Adding Baselines (Dayan 1990)]http://www.gatsby.ucl.ac.uk/~dayan/papers/reinfss.pdf

@@ -130,6 +130,10 @@ List of papers
 * [InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets, 2016] https://arxiv.org/pdf/1606.03657.pdf
 
 
+## Localization and Object Detection
+
+* [OverFeat:Integrated Recognition, Localization and Detection using Convolutional Networks, 2014] https://arxiv.org/abs/1312.6229
+
 ## Docker
 
 * Using Jupyter notebook from Docker: https://www.dataquest.io/blog/docker-data-science/

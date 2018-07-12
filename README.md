@@ -134,6 +134,8 @@ List of papers
 
 * [OverFeat:Integrated Recognition, Localization and Detection using Convolutional Networks, 2014] https://arxiv.org/abs/1312.6229
 
+* [You Only Look Once: Unified, Real-Time Object Detection] https://pjreddie.com/media/files/papers/yolo.pdf
+
 ## Docker
 
 * Using Jupyter notebook from Docker: https://www.dataquest.io/blog/docker-data-science/

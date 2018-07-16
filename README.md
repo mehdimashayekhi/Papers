@@ -3,7 +3,7 @@
 List of papers 
 
 ## Natural Language Understanding Related Papers
-* [Improving Language Understanding by Generative Pre-Training, (pretrained language models rather than pretrained word embeddings) 2018] (https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+* [Improving Language Understanding by Generative Pre-Training, (pretrained language models rather than pretrained word embeddings), 2018] (https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 * [StarSpace: Embed All The Things!] (https://arxiv.org/pdf/1709.03856.pdf)
 * [ConvS2S] (https://arxiv.org/abs/1705.03122)
 * [Attention in general] (https://arxiv.org/pdf/1703.03906.pdf) (the link would help you quickly understand section 3.2)

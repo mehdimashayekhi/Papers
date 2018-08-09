@@ -7,7 +7,7 @@ def reward(guess_start, guess_end, answer_start, answer_end, baseline, tokens, l
   """
   Reinforcement learning reward (i.e. F1 score) from sampling a trajectory of guesses across each decoder timestep
   """
-  reward = tf.zeros(logits_shape, dtype=tf.float32) # this shape is wrong, the final shape is probably (max_iter*batch_size)
+  reward = tf.zeros(logits_shape[0], dtype=tf.float32) # the shape is  (max_iter*batch_size)
   reward = [reward] * 4
   for t in range(4):
     f1_score = tf.map_fn(

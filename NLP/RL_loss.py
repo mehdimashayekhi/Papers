@@ -74,10 +74,10 @@ def rl_loss(logits, answer_start, answer_end, tokens):
   loss = tf.reduce_mean(-r)
 
   # This function needs to return the value of loss in the forward pass so that theta_rl gets the right parameter update
-  # However, this needs to have the gradient of surr_loss in the backward pass so the model gets the right policy gradient update
-  #
-  
-# loss = (1/(2*theta_ce*theta_ce))*loss_ce + (1/(2*theta_rl*theta_rl)) * \
-#   loss_rl + tf.log(theta_ce * theta_ce) + tf.log(theta_rl * theta_rl)     # equation 17 of dcn+ paper
+  # However, this needs to have the gradient of surr_loss in the backward pass so the model gets the 
+  # right policy gradient update
+
+  # loss = (1/(2*theta_ce*theta_ce))*loss_ce + (1/(2*theta_rl*theta_rl)) * \
+  #   loss_rl + tf.log(theta_ce * theta_ce) + tf.log(theta_rl * theta_rl)     # equation 17 of dcn+ paper
   
   return surr_loss + tf.stop_gradient(loss - surr_loss)

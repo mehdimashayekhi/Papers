@@ -42,6 +42,7 @@ def surrogate_loss(logits, guess_start, guess_end, r):
 def rl_loss(logits, answer_start, answer_end, tokens):
   """
   Reinforcement learning loss
+  # logits has shape max_iter*batch_size*document_size*2
   """
   final_logits = logits.read(3)
   final_start_logits = final_logits[:, :, 0]

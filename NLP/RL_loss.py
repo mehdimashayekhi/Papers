@@ -1,3 +1,6 @@
+# this is the implemenation of dcn+ RL LOSS, 
+# paper here: https://arxiv.org/pdf/1711.00106.pdf
+#DCN+: MIXED OBJECTIVE AND DEEP RESIDUAL COATTENTION FOR QUESTION ANSWERING
 import tensorflow as tf
 from utils import mask_to_start, tf_f1_score
 import sys

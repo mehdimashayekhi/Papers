@@ -1,4 +1,4 @@
-# Good-Papers/Talks, some of my recent readings/learnings
+# Good-Papers/Talks, some of my recent readings
 
 List of papers 
 

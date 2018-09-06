@@ -143,6 +143,9 @@ List of papers
 * Using Jupyter notebook from Docker: https://www.dataquest.io/blog/docker-data-science/
 * General introduction to Docker: https://docker-curriculum.com/
 
+## Online Courses
+
+* Convex Optimization I (Stanford): https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622, https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf, this course is highly recommended for Reinforcement Learning
 
 
 

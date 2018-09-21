@@ -117,7 +117,7 @@ List of papers
 * https://www.youtube.com/watch?v=OsunRTEh1pw&index=5&list=PLdk2fd27CQzSd1sQ3kBYL4vtv6GjXvPsE, Variational auto encoder
 
 
-## Yes I GAN!
+## GAN
 
 * [NIPS 2016 - Generative Adversarial Networks - Ian Goodfellow] https://www.youtube.com/watch?v=AJVyzd0rqdc, https://arxiv.org/pdf/1701.00160.pdf
 

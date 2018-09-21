@@ -143,10 +143,11 @@ List of papers
 * Using Jupyter notebook from Docker: https://www.dataquest.io/blog/docker-data-science/
 * General introduction to Docker: https://docker-curriculum.com/
 
-## Online Courses
+## Online Courses/lecture
 
 * Convex Optimization I (Stanford): https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622, https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf, this course is highly recommended for Reinforcement Learning
 
+* Optimizating Neural Networks with Kronecker-factored Approximation Curvature (James Martens, 2016): https://www.youtube.com/watch?v=qAVZd6dHxPA&t=1064s
 
 
 

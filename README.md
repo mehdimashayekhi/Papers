@@ -5,6 +5,8 @@ List of papers
 ## Optimization
 * [SECOND-ORDER OPTIMIZATION FOR NEURAL NETWORKS,James Martens, 2016 (http://www.cs.toronto.edu/~jmartens/docs/thesis_phd_martens.pdf)
 
+* Optimizating Neural Networks with Kronecker-factored Approximation Curvature (James Martens, 2016): https://www.youtube.com/watch?v=qAVZd6dHxPA&t=1064s
+
 ## Natural Language Understanding Related Papers
 * [Improving Language Understanding by Generative Pre-Training, (pretrained language models rather than pretrained word embeddings), 2018] (https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 * [DCN+: MIXED OBJECTIVE AND DEEP RESIDUAL COATTENTION FOR QUESTION ANSWERING, 2017] (https://arxiv.org/pdf/1711.00106.pdf) (https://github.com/mehdimashayekhi/Papers/blob/master/NLP/RL_loss.py)
@@ -149,8 +151,6 @@ List of papers
 ## Online Courses/lecture
 
 * Convex Optimization I (Stanford): https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622, https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf, this course is highly recommended for Reinforcement Learning
-
-* Optimizating Neural Networks with Kronecker-factored Approximation Curvature (James Martens, 2016): https://www.youtube.com/watch?v=qAVZd6dHxPA&t=1064s
 
 
 

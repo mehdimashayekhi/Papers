@@ -152,5 +152,8 @@ List of papers
 
 * Convex Optimization I (Stanford): https://www.youtube.com/watch?v=McLq1hEq3UY&list=PL3940DD956CDF0622, https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf, this course is highly recommended for Reinforcement Learning
 
+## Gaussian processes
 
+* http://nbviewer.jupyter.org/github/krasserm/bayesian-machine-learning/blob/master/gaussian_processes.ipynb?flush_cache=true
+* https://www.youtube.com/watch?annotation_id=annotation_3463552811&feature=iv&src_vid=9hKfsuoFdeQ&v=BS4Wd5rwNwE#t=1m21s
 

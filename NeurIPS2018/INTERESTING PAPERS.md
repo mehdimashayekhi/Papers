@@ -6,7 +6,7 @@
 : https://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf
 
 ## RL
-* Non-delusional Q-learning and value iteration (https://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration.pdf)
+* Non-delusional Q-learning and value iteration (https://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration.pdf). This paper won an award!
 
 * Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models (https://arxiv.org/pdf/1805.12114.pdf)
 

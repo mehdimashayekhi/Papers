@@ -25,3 +25,7 @@ for Efficient Model-Free Reinforcement Learning (https://arxiv.org/pdf/1803.0010
 * Curiosity-driven Exploration by Self-supervised Prediction: https://pathak22.github.io/noreward-rl/
 
 * Learning a Hierarchy: https://blog.openai.com/learning-a-hierarchy/
+
+* Automatic Goal Generation for Reinforcement Learning Agents: https://arxiv.org/pdf/1705.06366.pdf
+
+*Visual Reinforcement Learning with Imagined Goals: https://bair.berkeley.edu/blog/2018/09/06/rig/

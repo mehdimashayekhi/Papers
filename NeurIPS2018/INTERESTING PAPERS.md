@@ -23,3 +23,5 @@ for Efficient Model-Free Reinforcement Learning (https://arxiv.org/pdf/1803.0010
 * TEMPORAL DIFFERENCE MODELS: MODEL-FREE DEEP RL FOR MODEL-BASED CONTROL: https://openreview.net/pdf?id=Skw0n-W0Z
 
 * Curiosity-driven Exploration by Self-supervised Prediction: https://pathak22.github.io/noreward-rl/
+
+* Learning a Hierarchy: https://blog.openai.com/learning-a-hierarchy/

@@ -6,6 +6,8 @@
 : https://papers.nips.cc/paper/7558-dialog-to-action-conversational-question-answering-over-a-large-scale-knowledge-base.pdf
 * Improving Semantic Parsing for Task Oriented Dialog: https://research.fb.com/wp-content/uploads/2018/12/Improving-Semantic-Parsing-for-Task-Oriented-Dialog.pdf?
 
+* DEEP CONTEXTUALIZED WORD REPRESENTATIONS: https://openreview.net/pdf?id=SJTCsqMUf, http://aclweb.org/anthology/N18-1202, https://www.youtube.com/watch?v=9JfGxKkmBc0, https://www.youtube.com/watch?v=a6eKlLoIWYw
+
 ## RL
 * Non-delusional Q-learning and value iteration (https://papers.nips.cc/paper/8200-non-delusional-q-learning-and-value-iteration.pdf). This paper won an award!
 
@@ -19,3 +21,5 @@ for Efficient Model-Free Reinforcement Learning (https://arxiv.org/pdf/1803.0010
 * Evolved Policy Gradients: https://arxiv.org/abs/1802.04821
 
 * TEMPORAL DIFFERENCE MODELS: MODEL-FREE DEEP RL FOR MODEL-BASED CONTROL: https://openreview.net/pdf?id=Skw0n-W0Z
+
+* Curiosity-driven Exploration by Self-supervised Prediction: https://pathak22.github.io/noreward-rl/

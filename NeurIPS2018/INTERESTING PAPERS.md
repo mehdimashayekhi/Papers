@@ -41,3 +41,6 @@ for Efficient Model-Free Reinforcement Learning (https://arxiv.org/pdf/1803.0010
 * Meta-Gradient Reinforcement Learning: https://arxiv.org/pdf/1805.09801.pdf
 
 * Learning Dexterity: https://blog.openai.com/learning-dexterity/
+
+* Go-Explore
+A new type of algorithm for hard-exploration problems: http://www.cs.uwyo.edu/~jeffclune/share/2018_12_07_NeurIPS_DeepRLWorkshop_Go_Explore.pdf

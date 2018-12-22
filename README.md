@@ -53,6 +53,7 @@ List of papers
 * [END-TO-END JOINT LEARNING OF NATURAL LANGUAGE UNDERSTANDING AND DIALOGUE MANAGER] (https://arxiv.org/pdf/1612.00913.pdf)
 
 ## (Deep) Reinforcement Learning
+* [Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms? (2018)]https://arxiv.org/pdf/1811.02553.pdf
 * [Deep Reinforcement Learning Tutorial (Karpathy 2016)]http://karpathy.github.io/2016/05/31/rl/
 * [Reinforcement Learning: An Introduction, Richard S. Sutton,2017] http://incompleteideas.net/book/bookdraft2017nov5.pdf
 * [Reinforcement Learning: An Introduction, Richard S. Sutton,2018] https://drive.google.com/file/d/1xeUDVGWGUUv1-ccUMAZHJLej2C7aAFWY/view

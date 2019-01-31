@@ -63,6 +63,8 @@ List of papers
 
 * [REINFORCEMENT LEARNING NEURAL TURING MACHINES - REVISED (2016)]https://arxiv.org/pdf/1505.00521.pdf
 
+* [Deep Reinforcement Learning for Dialogue Generation (2016)]https://arxiv.org/pdf/1606.01541.pdf, https://github.com/jiweil/Neural-Dialogue-Generation
+
 ## (Deep) Reinforcement Learning
 * [Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms? (2018)]https://arxiv.org/pdf/1811.02553.pdf
 * [Deep Reinforcement Learning Tutorial (Karpathy 2016)]http://karpathy.github.io/2016/05/31/rl/

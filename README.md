@@ -52,6 +52,17 @@ List of papers
 
 * [END-TO-END JOINT LEARNING OF NATURAL LANGUAGE UNDERSTANDING AND DIALOGUE MANAGER] (https://arxiv.org/pdf/1612.00913.pdf)
 
+## Dialogue +RL
+* [Dialogue Generation: From Imitation Learning to Inverse Reinforcement Learning (2018)]https://arxiv.org/pdf/1812.03509.pdf
+
+* [SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient (2017)]https://arxiv.org/pdf/1609.05473.pdf, https://github.com/LantaoYu/SeqGAN
+
+* [Adversarial Learning for Neural Dialogue Generation (2017)]https://arxiv.org/pdf/1701.06547.pdf
+
+* [SEQUENCE LEVEL TRAINING WITH RECURRENT NEURAL NETWORKS (2016)]https://arxiv.org/pdf/1511.06732.pdf
+
+* [REINFORCEMENT LEARNING NEURAL TURING MACHINES - REVISED (2016)]https://arxiv.org/pdf/1505.00521.pdf
+
 ## (Deep) Reinforcement Learning
 * [Are Deep Policy Gradient Algorithms Truly Policy Gradient Algorithms? (2018)]https://arxiv.org/pdf/1811.02553.pdf
 * [Deep Reinforcement Learning Tutorial (Karpathy 2016)]http://karpathy.github.io/2016/05/31/rl/
